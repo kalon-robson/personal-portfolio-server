@@ -1,8 +1,8 @@
 {
-  "name": "personal-portfolio",
+  "name": "personal-portfolio-server",
   "version": "0.0.0",
-  "description": "A boilerplate for a Payload server",
-  "repository": "git@github.com:kalon-robson/personal-portfolio.git",
+  "description": "personal-portfolio-server",
+  "repository": "git@github.com:kalon-robson/personal-portfolio-server.git",
   "author": "Kalon Robson",
   "license": "UNLICENSED",
   "private": true,

@@ -1,5 +1,5 @@
 {
-  "name": "personal-portfolio",
+  "name": "personal-portfolio-server",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
