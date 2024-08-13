@@ -9,6 +9,7 @@ export const Content: Block = {
       type: 'richText',
     },
   ],
+  interfaceName: 'content',
   labels: {
     plural: 'Content Blocks',
     singular: 'Content',
