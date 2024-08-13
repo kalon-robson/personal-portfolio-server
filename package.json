@@ -1,10 +1,10 @@
 {
-  "name": "website-payload-boilerplate",
+  "name": "personal-portfolio",
   "version": "0.0.0",
   "description": "A boilerplate for a Payload server",
-  "repository": "git@github.com:innovixx/website-payload-boilerplate.git",
-  "author": "Innovixx <support@innovixx.co.uk>",
-  "license": "MIT",
+  "repository": "git@github.com:kalon-robson/personal-portfolio.git",
+  "author": "Kalon Robson",
+  "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "dev": "cross-env PAYLOAD_CONFIG_PATH=src/payload.config.ts nodemon --exec ts-node src/index.ts",

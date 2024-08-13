@@ -10,7 +10,7 @@ services:
       - ~/.ssh:/home/vscode/.ssh:cached
       - ~/.npmrc:/home/vscode/.npmrc:cached
     command: sleep infinity
-    working_dir: /workspaces/website-payload-boilerplate
+    working_dir: /workspaces/personal-portfolio
 
   db:
     image: mongo:latest
