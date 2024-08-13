@@ -1,83 +1,643 @@
 [
   {
-    "id": "66b28519efcd45214c5afb7a",
-    "createdAt": "2024-08-06T20:18:33.759Z",
-    "updatedAt": "2024-08-07T09:17:48.275Z",
-    "title": "Example Page",
-    "image": "66a964f15446a4d03d16237b",
-    "layout": [
-      {
-        "content": {
-          "root": {
-            "children": [
-              {
-                "children": [
-                  {
-                    "detail": 0,
-                    "format": 0,
-                    "mode": "normal",
-                    "style": "",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                    "type": "text",
-                    "version": 1
-                  }
-                ],
-                "direction": "ltr",
-                "format": "",
-                "indent": 0,
-                "type": "paragraph",
-                "version": 1
-              }
-            ],
-            "direction": "ltr",
-            "format": "",
-            "indent": 0,
-            "type": "root",
-            "version": 1
-          }
-        },
-        "id": "66b336883bcc7945ebef8b3f",
-        "blockType": "content"
-      },
-      {
-        "image": "66a964f15446a4d03d16237b",
-        "caption": {
-          "root": {
-            "children": [
-              {
-                "children": [
-                  {
-                    "detail": 0,
-                    "format": 0,
-                    "mode": "normal",
-                    "style": "",
-                    "text": "This Content",
-                    "type": "text",
-                    "version": 1
-                  }
-                ],
-                "direction": "ltr",
-                "format": "",
-                "indent": 0,
-                "type": "paragraph",
-                "version": 1
-              }
-            ],
-            "direction": "ltr",
-            "format": "",
-            "indent": 0,
-            "type": "root",
-            "version": 1
-          }
-        },
-        "id": "66b33bb3df9cc868f68f3949",
-        "blockType": "image"
+    "id": "66bbc93164795008a35fa356",
+    "title": "Hey,\\n I'm Kalon.",
+    "header": {
+      "description": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I have over 7 years experience as a skilled Software Enginner",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
       }
-    ],
-    "meta": {
-      "title": "Example Page",
-      "description": "This is a demo example page"
     },
-    "slug": "home"
+    "layout": {
+      "blocks": [
+        {
+          "content": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate veli.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          },
+          "id": "66bbc931c44d9f13ca39bf42",
+          "blockName": "Home",
+          "blockType": "content"
+        },
+        {
+          "buttons": [
+            {
+              "buttonType": "primary",
+              "link": {
+                "type": "external",
+                "url": "/",
+                "label": "Get In Touch"
+              },
+              "id": "66bbca988495151d1dce79f2"
+            }
+          ],
+          "id": "66bbca978495151d1dce79f1",
+          "blockType": "buttons"
+        },
+        {
+          "id": "66bbcd4444022a444bbc9aba",
+          "blockType": "article-scroller"
+        },
+        {
+          "content": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "My Experience",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "heading",
+                  "version": 1,
+                  "tag": "h2"
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          },
+          "id": "66bbd05000ae8784b6baa18c",
+          "blockName": "Experience",
+          "blockType": "content"
+        },
+        {
+          "cards": [
+            {
+              "title": "Present",
+              "content": {
+                "root": {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem Ipsum",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Experience Title",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "heading",
+                      "version": 1,
+                      "tag": "h3"
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate veli.",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "root",
+                  "version": 1
+                }
+              },
+              "tags": [
+                "Typescript",
+                "React"
+              ],
+              "id": "66bbd0a66ceaf5968df780b1"
+            },
+            {
+              "title": "2022 - 2024",
+              "content": {
+                "root": {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem Ipsum",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Experience Title",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "heading",
+                      "version": 1,
+                      "tag": "h3"
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate veli.",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "root",
+                  "version": 1
+                }
+              },
+              "tags": [
+                "Typescript",
+                "React"
+              ],
+              "id": "66bbd0e06ceaf5968df780b2"
+            },
+            {
+              "title": "2019 - Present",
+              "content": {
+                "root": {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem Ipsum",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Experience Title",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "heading",
+                      "version": 1,
+                      "tag": "h3"
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate veli.",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "paragraph",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "root",
+                  "version": 1
+                }
+              },
+              "tags": [
+                "Typescript",
+                "React"
+              ],
+              "id": "66bbd0ec6ceaf5968df780b4"
+            }
+          ],
+          "id": "66bbd0a46ceaf5968df780b0",
+          "blockType": "card-list"
+        },
+        {
+          "content": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "The Tech I'm Utilizing",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "heading",
+                  "version": 1,
+                  "tag": "h2"
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          },
+          "id": "66bbd2f4eb83c120a5b28518",
+          "blockName": "Technology",
+          "blockType": "content"
+        },
+        {
+          "icons": [
+            {
+              "reactIconsIcon": "Fa0",
+              "id": "66bbd309eb83c120a5b2851a"
+            },
+            {
+              "reactIconsIcon": "Fa1",
+              "id": "66bbd30eeb83c120a5b2851b"
+            },
+            {
+              "reactIconsIcon": "Fa2",
+              "id": "66bbd312eb83c120a5b2851c"
+            },
+            {
+              "reactIconsIcon": "Fa3",
+              "id": "66bbd316eb83c120a5b2851d"
+            },
+            {
+              "reactIconsIcon": "Fa4",
+              "id": "66bbd318eb83c120a5b2851e"
+            },
+            {
+              "reactIconsIcon": "Fa5",
+              "id": "66bbd31eeb83c120a5b2851f"
+            },
+            {
+              "reactIconsIcon": "Fa6",
+              "id": "66bbd322eb83c120a5b28520"
+            },
+            {
+              "reactIconsIcon": "Fa7",
+              "id": "66bbd324eb83c120a5b28521"
+            },
+            {
+              "reactIconsIcon": "Fa8",
+              "id": "66bbd327eb83c120a5b28522"
+            },
+            {
+              "reactIconsIcon": "Fa9",
+              "id": "66bbd32aeb83c120a5b28523"
+            }
+          ],
+          "id": "66bbd308eb83c120a5b28519",
+          "blockType": "icons-row"
+        },
+        {
+          "content": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate veli.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          },
+          "id": "66bbd333eb83c120a5b28524",
+          "blockType": "content"
+        },
+        {
+          "content": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Contact Me",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "heading",
+                  "version": 1,
+                  "tag": "h2"
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          },
+          "id": "66bbd460615dd59d204178f1",
+          "blockName": "Contact",
+          "blockType": "content"
+        },
+        {
+          "columns": [
+            {
+              "columnWidth": "third",
+              "block": [
+                {
+                  "content": {
+                    "root": {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "detail": 0,
+                              "format": 0,
+                              "mode": "normal",
+                              "style": "",
+                              "text": "Telephone",
+                              "type": "text",
+                              "version": 1
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "paragraph",
+                          "version": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "detail": 0,
+                              "format": 1,
+                              "mode": "normal",
+                              "style": "",
+                              "text": "01388 221 038",
+                              "type": "text",
+                              "version": 1
+                            }
+                          ],
+                          "direction": null,
+                          "format": "",
+                          "indent": 0,
+                          "type": "paragraph",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "root",
+                      "version": 1
+                    }
+                  },
+                  "id": "66bbd475615dd59d204178f4",
+                  "blockType": "content"
+                }
+              ],
+              "id": "66bbd46e615dd59d204178f3"
+            },
+            {
+              "columnWidth": "half",
+              "block": [
+                {
+                  "content": {
+                    "root": {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "detail": 0,
+                              "format": 0,
+                              "mode": "normal",
+                              "style": "",
+                              "text": "Email",
+                              "type": "text",
+                              "version": 1
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "paragraph",
+                          "version": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 1,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "kalon.robson@outlook.com",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "autolink",
+                              "version": 2,
+                              "fields": {
+                                "linkType": "custom",
+                                "url": "mailto:kalon.robson@outlook.com"
+                              }
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "paragraph",
+                          "version": 1
+                        }
+                      ],
+                      "direction": "ltr",
+                      "format": "",
+                      "indent": 0,
+                      "type": "root",
+                      "version": 1
+                    }
+                  },
+                  "id": "66bbd475615dd59d204178f4",
+                  "blockType": "content"
+                }
+              ],
+              "id": "66bbd619615dd59d204178f5"
+            }
+          ],
+          "id": "66bbd467615dd59d204178f2",
+          "blockType": "columns"
+        }
+      ]
+    },
+    "slug": "home",
+    "createdAt": "2024-08-13T20:59:29.205Z",
+    "updatedAt": "2024-08-13T21:55:25.158Z",
+    "showSideNavigation": true
   }
 ]
