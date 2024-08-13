@@ -1,6 +1,8 @@
 [
   {
     "id": "66bbc93164795008a35fa356",
+    "createdAt": "2024-08-13T20:59:29.205Z",
+    "updatedAt": "2024-08-13T21:59:14.108Z",
     "title": "Hey,\\n I'm Kalon.",
     "header": {
       "description": {
@@ -65,7 +67,7 @@
               "version": 1
             }
           },
-          "id": "66bbc931c44d9f13ca39bf42",
+          "id": "66bbd70cabc0f25c545cbdb6",
           "blockName": "Home",
           "blockType": "content"
         },
@@ -78,14 +80,14 @@
                 "url": "/",
                 "label": "Get In Touch"
               },
-              "id": "66bbca988495151d1dce79f2"
+              "id": "66bbd70cabc0f25c545cbdc0"
             }
           ],
-          "id": "66bbca978495151d1dce79f1",
+          "id": "66bbd70cabc0f25c545cbdb7",
           "blockType": "buttons"
         },
         {
-          "id": "66bbcd4444022a444bbc9aba",
+          "id": "66bbd70cabc0f25c545cbdb8",
           "blockType": "article-scroller"
         },
         {
@@ -119,7 +121,7 @@
               "version": 1
             }
           },
-          "id": "66bbd05000ae8784b6baa18c",
+          "id": "66bbd70cabc0f25c545cbdb9",
           "blockName": "Experience",
           "blockType": "content"
         },
@@ -197,7 +199,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd0a66ceaf5968df780b1"
+              "id": "66bbd70cabc0f25c545cbdc1"
             },
             {
               "title": "2022 - 2024",
@@ -271,7 +273,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd0e06ceaf5968df780b2"
+              "id": "66bbd70cabc0f25c545cbdc2"
             },
             {
               "title": "2019 - Present",
@@ -345,10 +347,10 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd0ec6ceaf5968df780b4"
+              "id": "66bbd70cabc0f25c545cbdc3"
             }
           ],
-          "id": "66bbd0a46ceaf5968df780b0",
+          "id": "66bbd70cabc0f25c545cbdba",
           "blockType": "card-list"
         },
         {
@@ -382,54 +384,54 @@
               "version": 1
             }
           },
-          "id": "66bbd2f4eb83c120a5b28518",
+          "id": "66bbd70cabc0f25c545cbdbb",
           "blockName": "Technology",
           "blockType": "content"
         },
         {
           "icons": [
             {
-              "reactIconsIcon": "Fa0",
-              "id": "66bbd309eb83c120a5b2851a"
+              "icon": "Fa1",
+              "id": "66bbd70cabc0f25c545cbdc4"
             },
             {
-              "reactIconsIcon": "Fa1",
-              "id": "66bbd30eeb83c120a5b2851b"
+              "icon": "Fa2",
+              "id": "66bbd70cabc0f25c545cbdc5"
             },
             {
-              "reactIconsIcon": "Fa2",
-              "id": "66bbd312eb83c120a5b2851c"
+              "icon": "Fa3",
+              "id": "66bbd70cabc0f25c545cbdc6"
             },
             {
-              "reactIconsIcon": "Fa3",
-              "id": "66bbd316eb83c120a5b2851d"
+              "icon": "Fa4",
+              "id": "66bbd70cabc0f25c545cbdc7"
             },
             {
-              "reactIconsIcon": "Fa4",
-              "id": "66bbd318eb83c120a5b2851e"
+              "icon": "Fa5",
+              "id": "66bbd70cabc0f25c545cbdc8"
             },
             {
-              "reactIconsIcon": "Fa5",
-              "id": "66bbd31eeb83c120a5b2851f"
+              "icon": "Fa6",
+              "id": "66bbd70cabc0f25c545cbdc9"
             },
             {
-              "reactIconsIcon": "Fa6",
-              "id": "66bbd322eb83c120a5b28520"
+              "icon": "Fa7",
+              "id": "66bbd70cabc0f25c545cbdca"
             },
             {
-              "reactIconsIcon": "Fa7",
-              "id": "66bbd324eb83c120a5b28521"
+              "icon": "Fa8",
+              "id": "66bbd70cabc0f25c545cbdcb"
             },
             {
-              "reactIconsIcon": "Fa8",
-              "id": "66bbd327eb83c120a5b28522"
+              "icon": "Fa9",
+              "id": "66bbd70cabc0f25c545cbdcc"
             },
             {
-              "reactIconsIcon": "Fa9",
-              "id": "66bbd32aeb83c120a5b28523"
+              "icon": "Fa0",
+              "id": "66bbd70cabc0f25c545cbdcd"
             }
           ],
-          "id": "66bbd308eb83c120a5b28519",
+          "id": "66bbd70cabc0f25c545cbdbc",
           "blockType": "icons-row"
         },
         {
@@ -462,7 +464,7 @@
               "version": 1
             }
           },
-          "id": "66bbd333eb83c120a5b28524",
+          "id": "66bbd70cabc0f25c545cbdbd",
           "blockType": "content"
         },
         {
@@ -496,7 +498,7 @@
               "version": 1
             }
           },
-          "id": "66bbd460615dd59d204178f1",
+          "id": "66bbd70cabc0f25c545cbdbe",
           "blockName": "Contact",
           "blockType": "content"
         },
@@ -553,11 +555,11 @@
                       "version": 1
                     }
                   },
-                  "id": "66bbd475615dd59d204178f4",
+                  "id": "66bbd70cabc0f25c545cbdd0",
                   "blockType": "content"
                 }
               ],
-              "id": "66bbd46e615dd59d204178f3"
+              "id": "66bbd70cabc0f25c545cbdce"
             },
             {
               "columnWidth": "half",
@@ -623,21 +625,19 @@
                       "version": 1
                     }
                   },
-                  "id": "66bbd475615dd59d204178f4",
+                  "id": "66bbd70cabc0f25c545cbdd1",
                   "blockType": "content"
                 }
               ],
-              "id": "66bbd619615dd59d204178f5"
+              "id": "66bbd70cabc0f25c545cbdcf"
             }
           ],
-          "id": "66bbd467615dd59d204178f2",
+          "id": "66bbd70cabc0f25c545cbdbf",
           "blockType": "columns"
         }
       ]
     },
     "slug": "home",
-    "createdAt": "2024-08-13T20:59:29.205Z",
-    "updatedAt": "2024-08-13T21:55:25.158Z",
     "showSideNavigation": true
   }
 ]
