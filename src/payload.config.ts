@@ -5,7 +5,7 @@ import { lexicalEditor } from '@payloadcms/richtext-lexical';
 import { cloudStorage } from '@payloadcms/plugin-cloud-storage';
 import { azureBlobStorageAdapter } from '@payloadcms/plugin-cloud-storage/azure';
 import { buildConfig } from 'payload/config';
-import { Media, Page, User } from './collection';
+import { Article, Media, Page, User } from './collection';
 import { seed } from './seed';
 
 export default buildConfig({
@@ -13,7 +13,7 @@ export default buildConfig({
     bundler: webpackBundler(),
     user: User.slug,
   },
-  collections: [Media, Page, User],
+  collections: [Media, Page, User, Article],
   cors: [
     `${process.env.CLIENT_URL}`,
     ...(process.env.NODE_ENV === 'development' ? ['https://studio.apollographql.com'] : []),
