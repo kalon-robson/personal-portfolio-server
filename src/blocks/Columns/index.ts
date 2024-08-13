@@ -1,7 +1,7 @@
 import { Block } from 'payload/types';
 import { Content } from '../Content';
 
-export const columns: Block = {
+export const Columns: Block = {
   fields: [
     {
       fields: [
