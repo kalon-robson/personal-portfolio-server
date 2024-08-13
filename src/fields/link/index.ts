@@ -5,6 +5,9 @@ export const linkField: Field = {
     {
       fields: [
         {
+          admin: {
+            width: '100%',
+          },
           name: 'type',
           options: [
             {
@@ -16,6 +19,7 @@ export const linkField: Field = {
               value: 'external',
             },
           ],
+          required: true,
           type: 'radio',
         },
         {
