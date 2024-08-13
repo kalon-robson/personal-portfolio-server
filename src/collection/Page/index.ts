@@ -7,46 +7,41 @@ export const Page: CollectionConfig = {
     read: (): boolean => true,
   },
   admin: {
-    defaultColumns: ['title', 'slug', 'createdAt'],
+    defaultColumns: ['slug', 'title', 'createdAt'],
     disableDuplicate: true,
     useAsTitle: 'title',
   },
   fields: [
     {
-      label: 'Page Title',
       name: 'title',
       required: true,
       type: 'text',
     },
     {
-      label: 'Featured Image',
-      name: 'image',
-      relationTo: 'media',
-      type: 'upload',
-    },
-    {
-      blocks: [Content, Image],
-      label: 'Page Layout',
-      minRows: 1,
-      name: 'layout',
-      type: 'blocks',
-    },
-    {
-      fields: [
+      tabs: [
         {
-          label: 'Title',
-          name: 'title',
-          type: 'text',
+          fields: [
+            {
+              name: 'description',
+              required: true,
+              type: 'richText',
+            },
+          ],
+          name: 'header',
         },
         {
-          label: 'Description',
-          name: 'description',
-          type: 'textarea',
+          fields: [
+            {
+              blocks: [Content, Image],
+              minRows: 1,
+              name: 'blocks',
+              type: 'blocks',
+            },
+          ],
+          name: 'layout',
         },
       ],
-      label: 'Page Meta',
-      name: 'meta',
-      type: 'group',
+      type: 'tabs',
     },
     {
       admin: {
@@ -55,9 +50,15 @@ export const Page: CollectionConfig = {
       hooks: {
         beforeValidate: [formatSlugValidateHook('title')],
       },
-      label: 'Page Slug',
       name: 'slug',
       type: 'text',
+    },
+    {
+      admin: {
+        position: 'sidebar',
+      },
+      name: 'showSideNavigation',
+      type: 'checkbox',
     },
   ],
   slug: 'page',
