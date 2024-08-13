@@ -1,0 +1,83 @@
+[
+  {
+    "id": "66b28519efcd45214c5afb7a",
+    "createdAt": "2024-08-06T20:18:33.759Z",
+    "updatedAt": "2024-08-07T09:17:48.275Z",
+    "title": "Example Page",
+    "image": "66a964f15446a4d03d16237b",
+    "layout": [
+      {
+        "content": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        },
+        "id": "66b336883bcc7945ebef8b3f",
+        "blockType": "content"
+      },
+      {
+        "image": "66a964f15446a4d03d16237b",
+        "caption": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "This Content",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        },
+        "id": "66b33bb3df9cc868f68f3949",
+        "blockType": "image"
+      }
+    ],
+    "meta": {
+      "title": "Example Page",
+      "description": "This is a demo example page"
+    },
+    "slug": "home"
+  }
+]

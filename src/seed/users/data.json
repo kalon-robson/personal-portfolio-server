@@ -1,0 +1,16 @@
+[
+  {
+    "id": "66a162e91d86648e1303e0d2",
+    "email": "admin@innovixx.co.uk",
+    "createdAt": "2024-08-07T08:55:36.160Z",
+    "updatedAt": "2024-08-07T08:55:36.160Z",
+    "loginAttempts": 0
+  },
+  {
+    "id": "66b33b9c3905f86be4ec01fd",
+    "email": "user@innovixx.co.uk",
+    "createdAt": "2024-08-07T09:17:16.451Z",
+    "updatedAt": "2024-08-07T09:17:16.451Z",
+    "loginAttempts": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "66a964f15446a4d03d16237b",
+    "alt": "Payload Logo",
+    "filename": "payload.jpg",
+    "mimeType": "image/jpeg",
+    "filesize": 215423,
+    "width": 1920,
+    "height": 1080,
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "card": {
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "filesize": 22475,
+        "filename": "payload-640x480.jpg",
+        "url": "/media/payload-640x480.jpg"
+      },
+      "feature": {
+        "width": 1024,
+        "height": 576,
+        "mimeType": "image/jpeg",
+        "filesize": 47736,
+        "filename": "payload-1024x576.jpg",
+        "url": "/media/payload-1024x576.jpg"
+      }
+    },
+    "url": "/media/payload.jpg"
+  }
+]
