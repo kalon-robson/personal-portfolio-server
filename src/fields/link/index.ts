@@ -52,6 +52,7 @@ export const linkField: Field = {
       type: 'row',
     },
   ],
+  interfaceName: 'Link',
   name: 'link',
   type: 'group',
 };
