@@ -26,6 +26,11 @@ export const Article: CollectionConfig = {
               required: true,
               type: 'richText',
             },
+            {
+              name: 'featuredImage',
+              relationTo: 'media',
+              type: 'upload',
+            },
           ],
           name: 'header',
         },

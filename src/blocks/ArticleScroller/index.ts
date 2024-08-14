@@ -8,7 +8,7 @@ export const ArticleScroller: Block = {
       },
       hasMany: true,
       maxRows: 8,
-      name: 'article',
+      name: 'articles',
       relationTo: 'article',
       type: 'relationship',
     },
