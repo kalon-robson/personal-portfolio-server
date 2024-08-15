@@ -19,6 +19,7 @@ export default buildConfig({
     ...(process.env.NODE_ENV === 'development' ? ['https://studio.apollographql.com'] : []),
   ],
   db: mongooseAdapter({
+    transactionOptions: false,
     url: `${process.env.DATABASE_URI}`,
   }),
   editor: lexicalEditor({}),
