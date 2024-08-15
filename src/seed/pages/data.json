@@ -2,7 +2,7 @@
   {
     "id": "66bbc93164795008a35fa356",
     "createdAt": "2024-08-13T20:59:29.205Z",
-    "updatedAt": "2024-08-13T21:59:14.108Z",
+    "updatedAt": "2024-08-15T19:12:36.279Z",
     "title": "Hey,\\n I'm Kalon.",
     "header": {
       "description": {
@@ -67,27 +67,26 @@
               "version": 1
             }
           },
-          "id": "66bbd70cabc0f25c545cbdb6",
+          "id": "66be4e93a2f2f7504cdce823",
           "blockName": "Home",
           "blockType": "content"
         },
         {
           "buttons": [
             {
-              "buttonType": "primary",
               "link": {
                 "type": "external",
                 "url": "/",
                 "label": "Get In Touch"
               },
-              "id": "66bbd70cabc0f25c545cbdc0"
+              "id": "66be4e93a2f2f7504cdce82d"
             }
           ],
-          "id": "66bbd70cabc0f25c545cbdb7",
+          "id": "66be4e93a2f2f7504cdce824",
           "blockType": "buttons"
         },
         {
-          "id": "66bbd70cabc0f25c545cbdb8",
+          "id": "66be4e93a2f2f7504cdce825",
           "blockType": "article-scroller"
         },
         {
@@ -121,7 +120,7 @@
               "version": 1
             }
           },
-          "id": "66bbd70cabc0f25c545cbdb9",
+          "id": "66be4e93a2f2f7504cdce826",
           "blockName": "Experience",
           "blockType": "content"
         },
@@ -139,7 +138,7 @@
                           "format": 0,
                           "mode": "normal",
                           "style": "",
-                          "text": "Lorem Ipsum",
+                          "text": "LOREM IPSUM",
                           "type": "text",
                           "version": 1
                         }
@@ -199,7 +198,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd70cabc0f25c545cbdc1"
+              "id": "66be4e93a2f2f7504cdce82e"
             },
             {
               "title": "2022 - 2024",
@@ -213,7 +212,7 @@
                           "format": 0,
                           "mode": "normal",
                           "style": "",
-                          "text": "Lorem Ipsum",
+                          "text": "LOREM IPSUM",
                           "type": "text",
                           "version": 1
                         }
@@ -273,7 +272,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd70cabc0f25c545cbdc2"
+              "id": "66be4e93a2f2f7504cdce82f"
             },
             {
               "title": "2019 - Present",
@@ -287,7 +286,7 @@
                           "format": 0,
                           "mode": "normal",
                           "style": "",
-                          "text": "Lorem Ipsum",
+                          "text": "LOREM IPSUM",
                           "type": "text",
                           "version": 1
                         }
@@ -347,10 +346,10 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bbd70cabc0f25c545cbdc3"
+              "id": "66be4e93a2f2f7504cdce830"
             }
           ],
-          "id": "66bbd70cabc0f25c545cbdba",
+          "id": "66be4e93a2f2f7504cdce827",
           "blockType": "card-list"
         },
         {
@@ -384,7 +383,7 @@
               "version": 1
             }
           },
-          "id": "66bbd70cabc0f25c545cbdbb",
+          "id": "66be4e93a2f2f7504cdce828",
           "blockName": "Technology",
           "blockType": "content"
         },
@@ -392,46 +391,46 @@
           "icons": [
             {
               "icon": "Fa1",
-              "id": "66bbd70cabc0f25c545cbdc4"
+              "id": "66be4e93a2f2f7504cdce831"
             },
             {
               "icon": "Fa2",
-              "id": "66bbd70cabc0f25c545cbdc5"
+              "id": "66be4e93a2f2f7504cdce832"
             },
             {
               "icon": "Fa3",
-              "id": "66bbd70cabc0f25c545cbdc6"
+              "id": "66be4e93a2f2f7504cdce833"
             },
             {
               "icon": "Fa4",
-              "id": "66bbd70cabc0f25c545cbdc7"
+              "id": "66be4e93a2f2f7504cdce834"
             },
             {
               "icon": "Fa5",
-              "id": "66bbd70cabc0f25c545cbdc8"
+              "id": "66be4e93a2f2f7504cdce835"
             },
             {
               "icon": "Fa6",
-              "id": "66bbd70cabc0f25c545cbdc9"
+              "id": "66be4e93a2f2f7504cdce836"
             },
             {
               "icon": "Fa7",
-              "id": "66bbd70cabc0f25c545cbdca"
+              "id": "66be4e93a2f2f7504cdce837"
             },
             {
               "icon": "Fa8",
-              "id": "66bbd70cabc0f25c545cbdcb"
+              "id": "66be4e93a2f2f7504cdce838"
             },
             {
               "icon": "Fa9",
-              "id": "66bbd70cabc0f25c545cbdcc"
+              "id": "66be4e93a2f2f7504cdce839"
             },
             {
               "icon": "Fa0",
-              "id": "66bbd70cabc0f25c545cbdcd"
+              "id": "66be4e93a2f2f7504cdce83a"
             }
           ],
-          "id": "66bbd70cabc0f25c545cbdbc",
+          "id": "66be4e93a2f2f7504cdce829",
           "blockType": "icons-row"
         },
         {
@@ -464,7 +463,7 @@
               "version": 1
             }
           },
-          "id": "66bbd70cabc0f25c545cbdbd",
+          "id": "66be4e93a2f2f7504cdce82a",
           "blockType": "content"
         },
         {
@@ -498,7 +497,7 @@
               "version": 1
             }
           },
-          "id": "66bbd70cabc0f25c545cbdbe",
+          "id": "66be4e93a2f2f7504cdce82b",
           "blockName": "Contact",
           "blockType": "content"
         },
@@ -555,11 +554,11 @@
                       "version": 1
                     }
                   },
-                  "id": "66bbd70cabc0f25c545cbdd0",
+                  "id": "66be4e93a2f2f7504cdce83d",
                   "blockType": "content"
                 }
               ],
-              "id": "66bbd70cabc0f25c545cbdce"
+              "id": "66be4e93a2f2f7504cdce83b"
             },
             {
               "columnWidth": "half",
@@ -625,14 +624,14 @@
                       "version": 1
                     }
                   },
-                  "id": "66bbd70cabc0f25c545cbdd1",
+                  "id": "66be4e93a2f2f7504cdce83e",
                   "blockType": "content"
                 }
               ],
-              "id": "66bbd70cabc0f25c545cbdcf"
+              "id": "66be4e93a2f2f7504cdce83c"
             }
           ],
-          "id": "66bbd70cabc0f25c545cbdbf",
+          "id": "66be4e93a2f2f7504cdce82c",
           "blockType": "columns"
         }
       ]
