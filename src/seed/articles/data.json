@@ -1,0 +1,131 @@
+[
+  {
+    "id": "66be4b05488b076ab6e3fbbb",
+    "title": "The Homepage Prototype: A Light-hearted Inspection",
+    "header": {
+      "description": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Warm greetings to all visitors of my portfolio website! If you've stumbled upon this unconventional piece perched on the homepage, know that it's not just a playful creation but a purposeful measure to evaluate the site's structure and functionalities.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "featuredImage": "66be4b03488b076ab6e3fbb4"
+    },
+    "layout": {
+      "blocks": []
+    },
+    "slug": "the-homepage-prototype-a-light-hearted-inspection",
+    "_status": "published",
+    "createdAt": "2024-08-15T18:37:57.516Z",
+    "updatedAt": "2024-08-15T18:38:00.044Z"
+  },
+  {
+    "id": "66be4adf488b076ab6e3fb7b",
+    "title": "An Experimental Piece Primed for Homepage Evaluation",
+    "header": {
+      "description": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hello and thank you for visiting my portfolio site! If you stumbled upon this offbeat article showcased on the homepage, it's not merely a flight of fancy but a purposeful measure to assess the site's design and features.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "featuredImage": "66be4b03488b076ab6e3fbb4"
+    },
+    "layout": {
+      "blocks": []
+    },
+    "slug": "an-experimental-piece-primed-for-homepage-evaluation",
+    "_status": "published",
+    "createdAt": "2024-08-15T18:37:19.668Z",
+    "updatedAt": "2024-08-15T18:39:48.242Z"
+  },
+  {
+    "id": "66be4a94488b076ab6e3fb3f",
+    "title": "The Not-So-Serious Article I Wrote Just to Test the Home Page Block",
+    "header": {
+      "description": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Greetings and welcome to my portfolio website! You may have come across this unconventional piece likely nestled on the home page - not just a whimsical exercise; rather, it was a deliberate step in testing the layout and functionality of this site.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "featuredImage": "66be4a91488b076ab6e3fb38"
+    },
+    "layout": {
+      "blocks": []
+    },
+    "slug": "the-not-so-serious-article-i-wrote-just-to-test-the-home-page-block",
+    "_status": "published",
+    "createdAt": "2024-08-15T18:36:04.466Z",
+    "updatedAt": "2024-08-15T18:36:06.959Z"
+  }
+]

@@ -28,5 +28,101 @@
       }
     },
     "url": "/media/payload.jpg"
+  },
+  {
+    "id": "66be4b03488b076ab6e3fbb4",
+    "alt": "A decorative dust pattern on a dark background",
+    "filename": "VintageDust (1).jpg",
+    "mimeType": "image/jpeg",
+    "filesize": 1657081,
+    "width": 6188,
+    "height": 4500,
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "card": {
+        "url": "/media/VintageDust (1)-640x480.jpg",
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "filesize": 7493,
+        "filename": "VintageDust (1)-640x480.jpg"
+      },
+      "feature": {
+        "url": "/media/VintageDust (1)-1024x576.jpg",
+        "width": 1024,
+        "height": 576,
+        "mimeType": "image/jpeg",
+        "filesize": 16230,
+        "filename": "VintageDust (1)-1024x576.jpg"
+      }
+    },
+    "createdAt": "2024-08-15T18:37:55.476Z",
+    "updatedAt": "2024-08-15T18:38:30.745Z",
+    "url": "/media/VintageDust (1).jpg"
+  },
+  {
+    "id": "66be4ad6488b076ab6e3fb74",
+    "alt": "A decorative dust pattern on a dark background",
+    "filename": "VintageDust (6).jpg",
+    "mimeType": "image/jpeg",
+    "filesize": 866470,
+    "width": 5501,
+    "height": 4000,
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "card": {
+        "url": "/media/VintageDust (6)-640x480.jpg",
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "filesize": 26107,
+        "filename": "VintageDust (6)-640x480.jpg"
+      },
+      "feature": {
+        "url": "/media/VintageDust (6)-1024x576.jpg",
+        "width": 1024,
+        "height": 576,
+        "mimeType": "image/jpeg",
+        "filesize": 47562,
+        "filename": "VintageDust (6)-1024x576.jpg"
+      }
+    },
+    "createdAt": "2024-08-15T18:37:10.127Z",
+    "updatedAt": "2024-08-15T18:38:56.217Z",
+    "url": "/media/VintageDust (6).jpg"
+  },
+  {
+    "id": "66be4a91488b076ab6e3fb38",
+    "alt": "A decorative dust pattern on a dark background",
+    "filename": "VintageDust (7).jpg",
+    "mimeType": "image/jpeg",
+    "filesize": 3552836,
+    "width": 6188,
+    "height": 4500,
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "card": {
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "filesize": 18391,
+        "filename": "VintageDust (7)-640x480.jpg",
+        "url": "/media/VintageDust (7)-640x480.jpg"
+      },
+      "feature": {
+        "width": 1024,
+        "height": 576,
+        "mimeType": "image/jpeg",
+        "filesize": 43140,
+        "filename": "VintageDust (7)-1024x576.jpg",
+        "url": "/media/VintageDust (7)-1024x576.jpg"
+      }
+    },
+    "createdAt": "2024-08-15T18:36:01.132Z",
+    "updatedAt": "2024-08-15T18:36:01.132Z",
+    "url": "/media/VintageDust (7).jpg"
   }
 ]
