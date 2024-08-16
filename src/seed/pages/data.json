@@ -2,7 +2,7 @@
   {
     "id": "66bbc93164795008a35fa356",
     "createdAt": "2024-08-13T20:59:29.205Z",
-    "updatedAt": "2024-08-15T19:12:36.279Z",
+    "updatedAt": "2024-08-16T19:40:34.087Z",
     "title": "Hey,\\n I'm Kalon.",
     "header": {
       "description": {
@@ -67,7 +67,7 @@
               "version": 1
             }
           },
-          "id": "66be4e93a2f2f7504cdce823",
+          "id": "66bfa6cf9679d512e8cb7924",
           "blockName": "Home",
           "blockType": "content"
         },
@@ -79,14 +79,14 @@
                 "url": "/",
                 "label": "Get In Touch"
               },
-              "id": "66be4e93a2f2f7504cdce82d"
+              "id": "66bfa6cf9679d512e8cb792e"
             }
           ],
-          "id": "66be4e93a2f2f7504cdce824",
+          "id": "66bfa6cf9679d512e8cb7925",
           "blockType": "buttons"
         },
         {
-          "id": "66be4e93a2f2f7504cdce825",
+          "id": "66bfa6cf9679d512e8cb7926",
           "blockType": "article-scroller"
         },
         {
@@ -120,7 +120,7 @@
               "version": 1
             }
           },
-          "id": "66be4e93a2f2f7504cdce826",
+          "id": "66bfa6cf9679d512e8cb7927",
           "blockName": "Experience",
           "blockType": "content"
         },
@@ -198,7 +198,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66be4e93a2f2f7504cdce82e"
+              "id": "66bfa6cf9679d512e8cb792f"
             },
             {
               "title": "2022 - 2024",
@@ -272,7 +272,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66be4e93a2f2f7504cdce82f"
+              "id": "66bfa6cf9679d512e8cb7930"
             },
             {
               "title": "2019 - Present",
@@ -346,10 +346,10 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66be4e93a2f2f7504cdce830"
+              "id": "66bfa6cf9679d512e8cb7931"
             }
           ],
-          "id": "66be4e93a2f2f7504cdce827",
+          "id": "66bfa6cf9679d512e8cb7928",
           "blockType": "card-list"
         },
         {
@@ -383,54 +383,62 @@
               "version": 1
             }
           },
-          "id": "66be4e93a2f2f7504cdce828",
+          "id": "66bfa6cf9679d512e8cb7929",
           "blockName": "Technology",
           "blockType": "content"
         },
         {
           "icons": [
             {
-              "icon": "Fa1",
-              "id": "66be4e93a2f2f7504cdce831"
+              "icon": "bashSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7932"
             },
             {
-              "icon": "Fa2",
-              "id": "66be4e93a2f2f7504cdce832"
+              "icon": "typescriptSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7933"
             },
             {
-              "icon": "Fa3",
-              "id": "66be4e93a2f2f7504cdce833"
+              "icon": "postgresqlSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7934"
             },
             {
-              "icon": "Fa4",
-              "id": "66be4e93a2f2f7504cdce834"
+              "icon": "graphqlSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7935"
             },
             {
-              "icon": "Fa5",
-              "id": "66be4e93a2f2f7504cdce835"
+              "icon": "reactSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7936"
             },
             {
-              "icon": "Fa6",
-              "id": "66be4e93a2f2f7504cdce836"
+              "icon": "vueSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7937"
             },
             {
-              "icon": "Fa7",
-              "id": "66be4e93a2f2f7504cdce837"
+              "icon": "nextSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7938"
             },
             {
-              "icon": "Fa8",
-              "id": "66be4e93a2f2f7504cdce838"
+              "icon": "threeJsSkillIcon",
+              "id": "66bfa6cf9679d512e8cb7939"
             },
             {
-              "icon": "Fa9",
-              "id": "66be4e93a2f2f7504cdce839"
+              "icon": "githubSkillIcon",
+              "id": "66bfa6cf9679d512e8cb793a"
             },
             {
-              "icon": "Fa0",
-              "id": "66be4e93a2f2f7504cdce83a"
+              "icon": "azureSkillIcon",
+              "id": "66bfa6cf9679d512e8cb793b"
+            },
+            {
+              "icon": "cloudflareSkillIcon",
+              "id": "66bfab2536abb3167218de69"
+            },
+            {
+              "icon": "sentrySkillIcon",
+              "id": "66bfab2b36abb3167218de6a"
             }
           ],
-          "id": "66be4e93a2f2f7504cdce829",
+          "id": "66bfa6cf9679d512e8cb792aSkillIcon",
           "blockType": "icons-row"
         },
         {
@@ -463,7 +471,7 @@
               "version": 1
             }
           },
-          "id": "66be4e93a2f2f7504cdce82a",
+          "id": "66bfa6cf9679d512e8cb792b",
           "blockType": "content"
         },
         {
@@ -497,7 +505,7 @@
               "version": 1
             }
           },
-          "id": "66be4e93a2f2f7504cdce82b",
+          "id": "66bfa6cf9679d512e8cb792c",
           "blockName": "Contact",
           "blockType": "content"
         },
@@ -505,7 +513,7 @@
           "columns": [
             {
               "columnWidth": "third",
-              "block": [
+              "blocks": [
                 {
                   "content": {
                     "root": {
@@ -554,15 +562,15 @@
                       "version": 1
                     }
                   },
-                  "id": "66be4e93a2f2f7504cdce83d",
+                  "id": "66bfa6cf9679d512e8cb793e",
                   "blockType": "content"
                 }
               ],
-              "id": "66be4e93a2f2f7504cdce83b"
+              "id": "66bfa6cf9679d512e8cb793c"
             },
             {
               "columnWidth": "half",
-              "block": [
+              "blocks": [
                 {
                   "content": {
                     "root": {
@@ -624,14 +632,14 @@
                       "version": 1
                     }
                   },
-                  "id": "66be4e93a2f2f7504cdce83e",
+                  "id": "66bfa6cf9679d512e8cb793f",
                   "blockType": "content"
                 }
               ],
-              "id": "66be4e93a2f2f7504cdce83c"
+              "id": "66bfa6cf9679d512e8cb793d"
             }
           ],
-          "id": "66be4e93a2f2f7504cdce82c",
+          "id": "66bfa6cf9679d512e8cb792d",
           "blockType": "columns"
         }
       ]

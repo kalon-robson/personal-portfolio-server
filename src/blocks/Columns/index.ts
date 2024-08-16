@@ -27,7 +27,7 @@ export const Columns: Block = {
           blocks: [
             Content,
           ],
-          name: 'block',
+          name: 'blocks',
           type: 'blocks',
         },
       ],
