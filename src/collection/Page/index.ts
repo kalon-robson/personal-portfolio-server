@@ -1,6 +1,6 @@
 import { CollectionConfig } from 'payload/types';
 import { formatSlugValidateHook } from '../../utils/formatSlug';
-import { ArticleScroller, Buttons, CardList, Columns, Content, IconsRow, Image } from '../../blocks';
+import { ArticleScroller, Buttons, CardContent, CardList, Columns, Content, IconsRow, Image } from '../../blocks';
 
 export const Page: CollectionConfig = {
   access: {
@@ -32,7 +32,16 @@ export const Page: CollectionConfig = {
         {
           fields: [
             {
-              blocks: [Content, Image, Buttons, ArticleScroller, CardList, IconsRow, Columns],
+              blocks: [
+                ArticleScroller,
+                Buttons,
+                CardContent,
+                CardList,
+                Columns,
+                Content,
+                IconsRow,
+                Image,
+              ],
               minRows: 1,
               name: 'blocks',
               type: 'blocks',

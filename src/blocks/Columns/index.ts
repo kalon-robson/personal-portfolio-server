@@ -1,5 +1,6 @@
 import { Block } from 'payload/types';
 import { Content } from '../Content';
+import { CardContent } from '../CardContent';
 
 export const Columns: Block = {
   fields: [
@@ -13,6 +14,10 @@ export const Columns: Block = {
               value: 'full',
             },
             {
+              label: 'Two Thirds',
+              value: 'twoThirds',
+            },
+            {
               label: 'Half',
               value: 'half',
             },
@@ -20,12 +25,17 @@ export const Columns: Block = {
               label: 'Third',
               value: 'third',
             },
+            {
+              label: 'Quarter',
+              value: 'quarter',
+            },
           ],
           type: 'select',
         },
         {
           blocks: [
             Content,
+            CardContent,
           ],
           name: 'blocks',
           type: 'blocks',
