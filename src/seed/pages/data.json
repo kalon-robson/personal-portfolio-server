@@ -2,7 +2,7 @@
   {
     "id": "66bbc93164795008a35fa356",
     "createdAt": "2024-08-13T20:59:29.205Z",
-    "updatedAt": "2024-08-16T19:40:34.087Z",
+    "updatedAt": "2024-08-16T20:56:07.426Z",
     "title": "Hey,\\n I'm Kalon.",
     "header": {
       "description": {
@@ -67,7 +67,7 @@
               "version": 1
             }
           },
-          "id": "66bfa6cf9679d512e8cb7924",
+          "id": "66bfb275592d329d0c0187ea",
           "blockName": "Home",
           "blockType": "content"
         },
@@ -79,14 +79,14 @@
                 "url": "/",
                 "label": "Get In Touch"
               },
-              "id": "66bfa6cf9679d512e8cb792e"
+              "id": "66bfb275592d329d0c0187f4"
             }
           ],
-          "id": "66bfa6cf9679d512e8cb7925",
+          "id": "66bfb275592d329d0c0187eb",
           "blockType": "buttons"
         },
         {
-          "id": "66bfa6cf9679d512e8cb7926",
+          "id": "66bfb275592d329d0c0187ec",
           "blockType": "article-scroller"
         },
         {
@@ -120,7 +120,7 @@
               "version": 1
             }
           },
-          "id": "66bfa6cf9679d512e8cb7927",
+          "id": "66bfb275592d329d0c0187ed",
           "blockName": "Experience",
           "blockType": "content"
         },
@@ -198,7 +198,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bfa6cf9679d512e8cb792f"
+              "id": "66bfb275592d329d0c0187f5"
             },
             {
               "title": "2022 - 2024",
@@ -272,7 +272,7 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bfa6cf9679d512e8cb7930"
+              "id": "66bfb275592d329d0c0187f6"
             },
             {
               "title": "2019 - Present",
@@ -346,10 +346,10 @@
                 "Typescript",
                 "React"
               ],
-              "id": "66bfa6cf9679d512e8cb7931"
+              "id": "66bfb275592d329d0c0187f7"
             }
           ],
-          "id": "66bfa6cf9679d512e8cb7928",
+          "id": "66bfb275592d329d0c0187ee",
           "blockType": "card-list"
         },
         {
@@ -383,7 +383,7 @@
               "version": 1
             }
           },
-          "id": "66bfa6cf9679d512e8cb7929",
+          "id": "66bfb275592d329d0c0187ef",
           "blockName": "Technology",
           "blockType": "content"
         },
@@ -391,54 +391,54 @@
           "icons": [
             {
               "icon": "bashSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7932"
+              "id": "66bfb275592d329d0c0187f8"
             },
             {
               "icon": "typescriptSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7933"
+              "id": "66bfb275592d329d0c0187f9"
             },
             {
               "icon": "postgresqlSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7934"
+              "id": "66bfb275592d329d0c0187fa"
             },
             {
               "icon": "graphqlSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7935"
+              "id": "66bfb275592d329d0c0187fb"
             },
             {
               "icon": "reactSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7936"
+              "id": "66bfb275592d329d0c0187fc"
             },
             {
               "icon": "vueSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7937"
+              "id": "66bfb275592d329d0c0187fd"
             },
             {
               "icon": "nextSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7938"
+              "id": "66bfb275592d329d0c0187fe"
             },
             {
               "icon": "threeJsSkillIcon",
-              "id": "66bfa6cf9679d512e8cb7939"
+              "id": "66bfb275592d329d0c0187ff"
             },
             {
               "icon": "githubSkillIcon",
-              "id": "66bfa6cf9679d512e8cb793a"
+              "id": "66bfb275592d329d0c018800"
             },
             {
               "icon": "azureSkillIcon",
-              "id": "66bfa6cf9679d512e8cb793b"
+              "id": "66bfb275592d329d0c018801"
             },
             {
               "icon": "cloudflareSkillIcon",
-              "id": "66bfab2536abb3167218de69"
+              "id": "66bfb275592d329d0c018802"
             },
             {
               "icon": "sentrySkillIcon",
-              "id": "66bfab2b36abb3167218de6a"
+              "id": "66bfb275592d329d0c018803"
             }
           ],
-          "id": "66bfa6cf9679d512e8cb792aSkillIcon",
+          "id": "66bfb275592d329d0c0187f0",
           "blockType": "icons-row"
         },
         {
@@ -471,7 +471,7 @@
               "version": 1
             }
           },
-          "id": "66bfa6cf9679d512e8cb792b",
+          "id": "66bfb275592d329d0c0187f1",
           "blockType": "content"
         },
         {
@@ -505,7 +505,7 @@
               "version": 1
             }
           },
-          "id": "66bfa6cf9679d512e8cb792c",
+          "id": "66bfb275592d329d0c0187f2",
           "blockName": "Contact",
           "blockType": "content"
         },
@@ -531,7 +531,7 @@
                             }
                           ],
                           "direction": "ltr",
-                          "format": "",
+                          "format": "center",
                           "indent": 0,
                           "type": "paragraph",
                           "version": 1
@@ -539,17 +539,31 @@
                         {
                           "children": [
                             {
-                              "detail": 0,
-                              "format": 1,
-                              "mode": "normal",
-                              "style": "",
-                              "text": "01388 221 038",
-                              "type": "text",
-                              "version": 1
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 1,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "01388 221 038",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "link",
+                              "version": 2,
+                              "fields": {
+                                "url": "tel:01388221038",
+                                "newTab": false,
+                                "linkType": "custom"
+                              }
                             }
                           ],
                           "direction": null,
-                          "format": "",
+                          "format": "center",
                           "indent": 0,
                           "type": "paragraph",
                           "version": 1
@@ -562,14 +576,14 @@
                       "version": 1
                     }
                   },
-                  "id": "66bfa6cf9679d512e8cb793e",
-                  "blockType": "content"
+                  "id": "66bfb3bd24a30ec67a0590cc",
+                  "blockType": "card-content"
                 }
               ],
-              "id": "66bfa6cf9679d512e8cb793c"
+              "id": "66bfb275592d329d0c018804"
             },
             {
-              "columnWidth": "half",
+              "columnWidth": "twoThirds",
               "blocks": [
                 {
                   "content": {
@@ -588,7 +602,7 @@
                             }
                           ],
                           "direction": "ltr",
-                          "format": "",
+                          "format": "center",
                           "indent": 0,
                           "type": "paragraph",
                           "version": 1
@@ -619,7 +633,7 @@
                             }
                           ],
                           "direction": "ltr",
-                          "format": "",
+                          "format": "center",
                           "indent": 0,
                           "type": "paragraph",
                           "version": 1
@@ -632,14 +646,14 @@
                       "version": 1
                     }
                   },
-                  "id": "66bfa6cf9679d512e8cb793f",
-                  "blockType": "content"
+                  "id": "66bfb3c724a30ec67a0590cd",
+                  "blockType": "card-content"
                 }
               ],
-              "id": "66bfa6cf9679d512e8cb793d"
+              "id": "66bfb275592d329d0c018805"
             }
           ],
-          "id": "66bfa6cf9679d512e8cb792d",
+          "id": "66bfb275592d329d0c0187f3",
           "blockType": "columns"
         }
       ]
