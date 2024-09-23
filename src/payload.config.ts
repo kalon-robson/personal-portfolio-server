@@ -2,6 +2,7 @@ import path from 'path';
 import { mongooseAdapter } from '@payloadcms/db-mongodb';
 import { webpackBundler } from '@payloadcms/bundler-webpack';
 import { lexicalEditor } from '@payloadcms/richtext-lexical';
+import seoPlugin from '@payloadcms/plugin-seo';
 import { cloudStorage } from '@payloadcms/plugin-cloud-storage';
 import { azureBlobStorageAdapter } from '@payloadcms/plugin-cloud-storage/azure';
 import { buildConfig } from 'payload/config';
@@ -35,6 +36,16 @@ export default buildConfig({
     }
   },
   plugins: [
+    seoPlugin({
+      collections: [
+        Page.slug,
+        Article.slug,
+      ],
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      generateTitle: ({ doc }: any) => `${doc.title.value} - Kalon Robson`,
+      interfaceName: 'Meta',
+      uploadsCollection: Media.slug,
+    }),
     cloudStorage({
       collections: {
         [Media.slug]: {
