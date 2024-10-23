@@ -660,5 +660,50 @@
     },
     "slug": "home",
     "showSideNavigation": true
+  },
+  {
+    "id": "67196e2c68663c2f6fcc43c3",
+    "title": "Articles",
+    "header": {
+      "description": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explore a selection of articles where I share my thoughts and experiences on topics related to my work and interests. From industry insights to personal reflections, these writings aim to inform and engage readers seeking fresh perspectives.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "layout": {
+      "blocks": []
+    },
+    "slug": "articles",
+    "meta": {
+      "title": "Articles - Kalon Robson",
+      "description": "Explore a selection of articles where I share my thoughts and experiences on topics related to my work and interests."
+    },
+    "createdAt": "2024-10-23T21:44:12.544Z",
+    "updatedAt": "2024-10-23T21:58:58.839Z"
   }
 ]
