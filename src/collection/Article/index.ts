@@ -9,7 +9,7 @@ export const Article: CollectionConfig = {
   admin: {
     defaultColumns: ['slug', 'title', 'createdAt'],
     disableDuplicate: true,
-    preview: (data) => `${process.env.CLIENT_URL}/articles/${data.slug}`,
+    preview: (data) => `/articles/${data.slug}`,
     useAsTitle: 'title',
   },
   fields: [
