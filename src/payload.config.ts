@@ -8,6 +8,7 @@ import { azureBlobStorageAdapter } from '@payloadcms/plugin-cloud-storage/azure'
 import { buildConfig } from 'payload/config';
 import { Article, Media, Page, User } from './collection';
 import { seed } from './seed';
+import { initialisePages } from './tasks';
 
 export default buildConfig({
   admin: {
@@ -34,6 +35,8 @@ export default buildConfig({
     ) {
       await seed(payload);
     }
+
+    await initialisePages(payload);
   },
   plugins: [
     seoPlugin({

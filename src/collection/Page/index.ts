@@ -32,6 +32,9 @@ export const Page: CollectionConfig = {
         {
           fields: [
             {
+              admin: {
+                condition: (data) => !data.isPlaceholderPage,
+              },
               blocks: [
                 ArticleScroller,
                 Buttons,
@@ -67,6 +70,13 @@ export const Page: CollectionConfig = {
         position: 'sidebar',
       },
       name: 'showSideNavigation',
+      type: 'checkbox',
+    },
+    {
+      admin: {
+        hidden: true,
+      },
+      name: 'isPlaceholderPage',
       type: 'checkbox',
     },
   ],
