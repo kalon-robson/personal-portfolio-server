@@ -16,7 +16,9 @@
     }
   },
   "forwardPorts": [
-    9000,
-    27017
+    9000, // Server
+    27017, // MongoDB
+    1025, // Mailhog
+    8025 // Mailhog
   ]
 }

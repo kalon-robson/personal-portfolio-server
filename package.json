@@ -21,6 +21,7 @@
     "postinstall": "husky install"
   },
   "dependencies": {
+    "@azure/communication-email": "^1.0.0",
     "@azure/storage-blob": "^12.24.0",
     "@innovixx/payload-icon-picker-field": "^0.0.4",
     "@payloadcms/bundler-webpack": "^1.0.7",
