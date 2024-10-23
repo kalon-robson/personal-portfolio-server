@@ -9,6 +9,7 @@ export const Page: CollectionConfig = {
   admin: {
     defaultColumns: ['slug', 'title', 'createdAt'],
     disableDuplicate: true,
+    preview: (data) => `${process.env.CLIENT_URL}/${data.slug}`,
     useAsTitle: 'title',
   },
   fields: [
